@@ -6,7 +6,7 @@
 - City is handled  by mode values
 # Feature Extraction
 - Visitor = adult + children + baby
-- Total_Booking = previous_cancellations + previous_bookings_not_canceled
+- Total_Booking = previous_cancellations + previous_bookings_not_canceled + booking_changes
 # Invalid Values
 - required_car_parking_spaces = "Reqired" and "Not Required"
 - meal = "Breakfast", "Dinner", "Full Board", and "No Meal"
